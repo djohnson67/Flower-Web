@@ -1,14 +1,14 @@
 //
-//  AppDelegate.m
+//  FWAppDelegate.m
 //  FlowerWeb
 //
-//  Created by Daniel Reid on 4/19/13.
+//  Created by Daniel Reid on 3/4/13.
 //  Copyright (c) 2013 TitanTV BIM. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "FWAppDelegate.h"
 
-@implementation AppDelegate
+@implementation FWAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
