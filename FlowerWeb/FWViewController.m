@@ -20,7 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     self.flowerDetailView.hidden = YES;
     [self getFlower:nil];
-    //changes done at gui one now two
+    //changes done at gui one 
     
 }
 
