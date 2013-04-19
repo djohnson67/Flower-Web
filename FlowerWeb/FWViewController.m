@@ -21,7 +21,7 @@
     self.flowerDetailView.hidden = YES;
     [self getFlower:nil];
     //changes done at gui one 
-    
+    //changes from mb pro
 }
 
 - (void)didReceiveMemoryWarning
